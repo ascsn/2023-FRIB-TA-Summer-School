@@ -1,5 +1,5 @@
 # Practical Uncertainty Quantification and Emulator Development in Nuclear Physics
-_Materials for the 2023 FRIB-TA summer school_
+_[Materials for the 2023 FRIB-TA summer school](https://indico.frib.msu.edu/event/65/)_
 
 Welcome to the repository for the 2023 FRIB-TA summer school! This repository contains materials for the whole summer school, but things have been divvied up into subfolders for each session of the program. 
 

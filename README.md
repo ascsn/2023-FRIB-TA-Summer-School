@@ -7,6 +7,9 @@ To ease as broad an audience as possible into the wild world of scientific compu
 
 If you have any difficulties, please ask your questions either in the GitHub issues of this repository or by making a post in the [ASCSN forum](https://forum.ascsn.net) and one of the organizers will respond. 
 
+Link to all the recorded videos:
+https://www.youtube.com/playlist?list=PLx2qaC0Xa2Rtr_6M6b6Thm7ql3odDzD10
+
 Link to the drive where all the presentations live together and happy: https://drive.google.com/drive/folders/1m60CfxccFxh1iG6YNVjtytGARP9je47g?usp=drive_link
 
 Morten's notebook (and challenge) can be found here: https://github.com/CompPhysics/FRIBTAsummerschool2023/blob/main/doc/pub/mlnuclear/ipynb/mlnuclear.ipynb
